@@ -1,5 +1,3 @@
----
-
 ⚡ DOWNLOAD DO ADD-ON ⚡
 
 📥 Como adicionar no Kodi:
@@ -28,15 +26,8 @@ https://tvstreamproo.github.io/tvpro/
 
 
 
-
----
-
 🔧 Observações importantes:
 
 Recomendamos que você tenha o f4mTester instalado para evitar erros de reprodução.
 
 Utilize um aplicativo de DNS (como DNSChanger ou 1.1.1.1) para melhorar o acesso aos conteúdos e evitar bloqueios.
-
-
-
----
