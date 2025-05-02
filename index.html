@@ -4,25 +4,56 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <meta name="description" content="Página de repositório oficial do plugin TVSTREAMPRO para Kodi. Baixe a versão mais recente.">
-  <title>PLUGIN TVSTREAMPRO REPO ❤️</title>
+  <title>PLUGIN TVSTREAMPRO[++] ❤️</title>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@700&display=swap" rel="stylesheet">
+
   <style>
     body {
       background: #000;
       color: #fff;
-      font-family: 'Segoe UI', sans-serif;
+      font-family: 'Roboto', sans-serif;
       margin: 0;
       padding: 0;
     }
 
-    h1 {
+    .smoke-wrapper {
+      position: relative;
       text-align: center;
-      color: #fff;
       margin-top: 40px;
       font-size: 28px;
     }
 
+    .smoke-wrapper::before {
+      content: '';
+      position: absolute;
+      top: -20px;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 300px;
+      height: 100px;
+      background: radial-gradient(circle, rgba(255,255,255,0.1) 20%, transparent 70%);
+      animation: smoke 4s infinite ease-in-out;
+      filter: blur(20px);
+      opacity: 0.5;
+    }
+
+    @keyframes smoke {
+      0% {
+        transform: translateX(-50%) translateY(0) scale(1);
+        opacity: 0.5;
+      }
+      50% {
+        transform: translateX(-50%) translateY(-10px) scale(1.2);
+        opacity: 0.3;
+      }
+      100% {
+        transform: translateX(-50%) translateY(0) scale(1);
+        opacity: 0.5;
+      }
+    }
+
     a {
-      color: #00FFFF; /* Cyan */
+      color: cyan;
       text-decoration: none;
       transition: 0.3s;
     }
@@ -72,6 +103,21 @@
       border-radius: 6px;
     }
 
+    .telegram-button {
+      display: inline-block;
+      background-color: orange;
+      color: black;
+      font-weight: bold;
+      padding: 10px 20px;
+      border-radius: 8px;
+      text-align: center;
+      transition: background 0.3s;
+    }
+
+    .telegram-button:hover {
+      background-color: #ffaa00;
+    }
+
     footer {
       text-align: center;
       margin: 40px 0 20px;
@@ -86,7 +132,7 @@
   </script>
 </head>
 <body>
-  <h1><strong>PLUGIN TVSTREAMPRO REPO ❤️</strong></h1>
+  <h1 class="smoke-wrapper"><strong>❤️ 👑 PLUGIN TVSTREAMPRO 👑 ❤️</strong></h1>
 
   <table>
     <!-- PLUGIN TVSTREAMPRO -->
@@ -104,34 +150,6 @@
       </td>
     </tr>
 
-    <!-- PLUGIN F4MTESTER -->
-    <tr>
-      <th colspan="5" class="highlight">F4MTESTER</th>
-    </tr>
-    <tr>
-      <td>
-        <img alt="F4MTESTER Icon" height="150px" src="https://raw.githubusercontent.com/BLACKSHEEPcolabdev/add-on/master/BLACKGHOST/Imagens/f4m.png" width="150px" />
-      </td>
-      <td>
-        <strong><a href="plugin.video.f4mtester.zip">plugin.video.f4mtester.zip</a></strong>
-        <div class="version">Versão: 4.2.4</div>
-      </td>
-    </tr>
-
-    <!-- PLUGIN F4MPROXY -->
-    <tr>
-      <th colspan="5" class="highlight">F4MPROXY</th>
-    </tr>
-    <tr>
-      <td>
-        <img alt="F4MPROXY Icon" height="150px" src="https://raw.githubusercontent.com/BLACKSHEEPcolabdev/add-on/master/BLACKGHOST/Imagens/f4mP.png" width="150px" />
-      </td>
-      <td>
-        <strong><a href="script.video.F4mProxy.zip">script.video.F4mProxy.zip</a></strong>
-        <div class="version">Versão: 4.0.9</div>
-      </td>
-    </tr>
-
     <!-- TELEGRAM -->
     <tr>
       <th colspan="5" class="highlight">TELEGRAM</th>
@@ -141,7 +159,7 @@
         <img alt="Contato" height="150px" src="https://raw.githubusercontent.com/BLACKSHEEPcolabdev/add-on/master/BLACKGHOST/Imagens/contato.png" width="150px" />
       </td>
       <td colspan="10">
-        <a href="https://t.me/+tc6Q79cqS99hNmYx">GRUPO OFICIAL NO TELEGRAM</a>
+        <a href="https://t.me/+tc6Q79cqS99hNmYx" class="telegram-button">ENTRAR NO GRUPO</a>
       </td>
     </tr>
   </table>
