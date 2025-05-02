@@ -1,15 +1,42 @@
-DOWNLOAD DO ARQUIVO
+---
 
-Instruções para a adição no gestor:
+⚡ DOWNLOAD DO ADD-ON ⚡
 
-Ir para o Kodi gestor de ficheiros.
+📥 Como adicionar no Kodi:
 
-Clicar em "Adicionar fonte"
+1. Abra o Kodi e vá até o Gestor de Ficheiros.
 
-O endereço para a fonte é https://tvstreamproo.github.io/tvpro/ ("ele vai colocar o nome automaticamente").
 
-Ir para "Addons"
+2. Clique em ➕ "Adicionar fonte".
 
-Em Addons, instalar de um ficheiro zip. Quando perguntar pela localização, selecionar "tvpro", e instalar TVSTREAMPRO.zip Repositório Instalado!!
 
-AVISO: POR FAVOR,SE VOCE ESTA LENDO ESTA MENSAGEM NÃO ESPALHE O CODIGO FONTE DO ADDON,TENHA BOM SENSO E NÃO ESTRAGUE A EXPERIENCIA DOS OUTROS USUARIOS!
+3. Digite o seguinte endereço:
+https://tvstreamproo.github.io/tvpro/
+(O nome tvpro será preenchido automaticamente.)
+
+
+4. Volte ao menu principal e vá até Add-ons.
+
+
+5. Selecione 📦 Instalar de um ficheiro .zip.
+
+
+6. Escolha a fonte "tvpro" e instale o arquivo TVSTREAMPRO.zip.
+
+
+7. ✅ Repositório instalado com sucesso!
+
+
+
+
+---
+
+🔧 Observações importantes:
+
+Recomendamos que você tenha o f4mTester instalado para evitar erros de reprodução.
+
+Utilize um aplicativo de DNS (como DNSChanger ou 1.1.1.1) para melhorar o acesso aos conteúdos e evitar bloqueios.
+
+
+
+---
