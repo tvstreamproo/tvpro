@@ -24,10 +24,18 @@ https://tvstreamproo.github.io/tvpro/
 
 7. ✅ Repositório instalado com sucesso!
 
+=====================================================================
 
+🚨 OBSERVAÇÕES IMPORTANTES 🚨
 
-🔧 Observações importantes:
+RECOMENDAMOS QUE VOCÊ TENHA O F4MTESTER INSTALADO PARA EVITAR ERROS DE REPRODUÇÃO.
 
-Recomendamos que você tenha o f4mTester instalado para evitar erros de reprodução.
+UTILIZE UM APLICATIVO DE DNS (COMO DNSCHANGER OU 1.1.1.1) PARA MELHORAR O ACESSO AOS CONTEÚDOS E EVITAR BLOQUEIOS.
 
-Utilize um aplicativo de DNS (como DNSChanger ou 1.1.1.1) para melhorar o acesso aos conteúdos e evitar bloqueios.
+=====================================================================
+
+‼️ AVISO IMPORTANTE ‼️
+POR FAVOR, SE VOCÊ ESTÁ LENDO ESTA MENSAGEM, NÃO ESPALHE O CÓDIGO-FONTE DO ADD-ON.
+TENHA BOM SENSO E NÃO ESTRAGUE A EXPERIÊNCIA DOS OUTROS USUÁRIOS!
+
+=====================================================================
